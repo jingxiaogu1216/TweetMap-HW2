@@ -1,9 +1,7 @@
 # TweetMap
 Developed By Jingxiao Gu and Hui Su
 # Description
-TweetMap is a node.js web application which displays real-time tweets, 
-global heatmap and trend of tweets on user-specified keywords using 
-Angular, JQuery, socket.io, MongoDB and Google Map API.
+TweetMap is a node.js web application which does sentiment analysis and trend display of real-time tweets on user-specified keywords using AngularJS, jQuery, socket.io, MongoDB and Google Map API.
 # A quick look
 http://tweetmap-jghs.elasticbeanstalk.com
 </br>
