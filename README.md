@@ -1,5 +1,5 @@
 # TweetMap
-Developed By Jingxiao Gu and Hui Su
+Developed By Jingxiao Gu(back-end) and Hui Su(front-end)
 # Description
 TweetMap is a node.js web application which does sentiment analysis and trend display of real-time tweets on user-specified keywords using AWS(SQS, SNS), AngularJS, jQuery, socket.io, MongoDB and Google Map API.
 # A quick look
